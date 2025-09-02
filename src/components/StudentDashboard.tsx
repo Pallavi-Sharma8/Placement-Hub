@@ -50,7 +50,7 @@ const StudentDashboard: React.FC = () => {
             <div className=' hidden mt-5    gap-20 lg:block  '><ContactButtons/></div>
           </div>
           <div  >
-            <img src='public\homeSection.png' className='w-[75vh]'/>
+            <img src='homeSection.png' className='w-[75vh]'/>
           </div>
           </div>
         </div>
